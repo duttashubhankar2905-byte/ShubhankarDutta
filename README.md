@@ -12,7 +12,7 @@ Time-series forecasting using SARIMAX with holiday effects.
 - Business-focused forecasting approach
 - Model comparison & interpretation
 
-🔗 [View Project](PASTE_LINK_HERE)
+🔗 [View Project](https://github.com/duttashubhankar2905-byte/sales-forecasting)
 
 ---
 
@@ -22,7 +22,7 @@ Machine learning classification project to identify churn drivers.
 - Identified 5 key churn drivers
 - Logistic Regression & Random Forest
 
-🔗 [View Project](PASTE_LINK_HERE)
+🔗 [View Project](https://github.com/duttashubhankar2905-byte/customer-churn-analysis-prediction)
 
 ---
 
